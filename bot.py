@@ -74,8 +74,7 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Updates Channel", url="https://t.me/netfilixmo_ch"),
-                        InlineKeyboardButton("Search Movie", url="https://t.me/n_flixmovie")
+                        InlineKeyboardButton("Updates Channel", url="https://t.me/+fMRkaSim4k5hZDZl") 
                     ]     
               ]
             )
@@ -332,8 +331,7 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Updates Channel", url="https://t.me/netfilixmo_ch"),
-                        InlineKeyboardButton("Search Movie", url="https://t.me/n_flixmovie")
+                        InlineKeyboardButton("Updates Channel", url="https://t.me/+fMRkaSim4k5hZDZl")  
                     ]
                 ]
             )
@@ -360,7 +358,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("🤖 Join Updates Channel", "https://t.me/netfilixmo_ch")
+                                InlineKeyboardButton("🤖 Join Updates Channel", "https://t.me/+fMRkaSim4k5hZDZl")
                             ],
                             [
                                 InlineKeyboardButton("🔄 Refresh 🔄", callback_data="refreshmeh")
