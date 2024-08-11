@@ -1,7 +1,7 @@
 import os
 
 class Config(object):
-  API_ID = int(os.environ.get("API_ID", "23929647"))
+  API_ID = int(os.environ.get("API_ID", "2016390875"))
   API_HASH = os.environ.get("API_HASH", "b9afa697042d998a758e407b84c86daf")
   BOT_TOKEN = os.environ.get("BOT_TOKEN", "6541237957:AAGo2ooB5uGlbutXK_I5G0P5GOBXfrSo3_o")
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "Chadarmod_bot")
