@@ -5,7 +5,7 @@ class Config(object):
   API_HASH = os.environ.get("API_HASH", "b9afa697042d998a758e407b84c86daf")
   BOT_TOKEN = os.environ.get("BOT_TOKEN", "6541237957:AAGo2ooB5uGlbutXK_I5G0P5GOBXfrSo3_o")
   BOT_USERNAME = os.environ.get("BOT_USERNAME", "Chadarmod_bot")
-  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002183689814"))
+  DB_CHANNEL = int(os.environ.get("DB_CHANNEL", "-1002157674551"))
   SHORTLINK_URL = os.environ.get('SHORTLINK_URL', "modijiurl.com")
   SHORTLINK_API = os.environ.get('SHORTLINK_API', "3a316a64da231058d60e832717d6c32da304d12d")
   BOT_OWNER = int(os.environ.get("BOT_OWNER", "2016390875 "))
